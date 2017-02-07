@@ -1,1 +1,2 @@
 # FIRE DISTRICT 6 WEBSITE
+## Added Test
